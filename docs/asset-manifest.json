@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nisha-portfolio/static/css/main.8553cd9c.css",
+    "main.js": "/nisha-portfolio/static/js/main.ea8a5d23.js",
+    "index.html": "/nisha-portfolio/index.html",
+    "main.8553cd9c.css.map": "/nisha-portfolio/static/css/main.8553cd9c.css.map",
+    "main.ea8a5d23.js.map": "/nisha-portfolio/static/js/main.ea8a5d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8553cd9c.css",
+    "static/js/main.ea8a5d23.js"
+  ]
+}
